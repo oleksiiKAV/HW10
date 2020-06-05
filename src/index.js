@@ -11,7 +11,7 @@ const Theme = {
   LIGHT: 'light-theme',
   DARK: 'dark-theme',
 };
-
+// ggggggggggg
 const input = document.querySelector('.js-switch-input');
 const body = document.querySelector('body');
 const currentTheme = localStorage.getItem('theme');
